@@ -1,0 +1,19 @@
+{
+  "name": "projecect",
+  "version": "1.0.0",
+  "description": "my php shop project",
+  "main": "home.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "php",
+    "html",
+    "css"
+  ],
+  "author": "dev",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
